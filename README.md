@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 Ideas to add?
 - Fun fact
 - Ethical AI
-- Past courses I've taken
 -->
