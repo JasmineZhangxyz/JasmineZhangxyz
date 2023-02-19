@@ -1,5 +1,5 @@
 ## About Me
-- 👋 My name is Xiyue, but I commonly go by Jasmine
+- 👋 My name is Xiyue, but I also go by Jasmine
 - 😄 Pronouns: she/her
 - 🌱 I'm an Engineering Science - Machine Intelligence student at the University of Toronto
 - 💻 I'm currently a SWE Co-op Intern at IBM (start date: May 2022)
@@ -8,7 +8,7 @@
 
 For more info, check out my [personal website](https://xiyuezhang.gatsbyjs.io/)!
 
-## Tech + Courses 
+## Technologies + Courses 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
