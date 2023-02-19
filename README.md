@@ -1,5 +1,3 @@
-## Hi, my name is Xiyue (Jasmine) Zhang! there 👋
-
 ### About Me
 - 👋 My name is Xiyue, but I commonly go by Jasmine
 - 😄 Pronouns: she/her
