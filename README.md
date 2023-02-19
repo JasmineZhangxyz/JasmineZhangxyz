@@ -1,5 +1,5 @@
 ## About Me
-- 👋 My name is Xiyue, but I also go by Jasmine
+- 👋 Hi! My name is Xiyue, but I also go by Jasmine
 - 😄 Pronouns: she/her
 - 🌱 I'm an Engineering Science - Machine Intelligence student at the University of Toronto
 - 💻 I'm currently a SWE Co-op Intern at IBM (start date: May 2022)
