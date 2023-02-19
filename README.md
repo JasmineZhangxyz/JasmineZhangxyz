@@ -28,4 +28,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+
+
+Ideas to add?
+- Fun fact
+- Ethical AI
+- Past courses I've taken
 -->
