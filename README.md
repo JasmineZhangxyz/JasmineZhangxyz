@@ -4,7 +4,7 @@
 - 🌱 I'm an Engineering Science - Machine Intelligence student at the University of Toronto (Class of 2024)
 - 💻 I'm currently a SWE Co-op Intern at IBM (start date: May 2022)
 - 💬 I'm excited to learn about all the different applications and fields within software development!
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xiyue-jasmine-zhang/)! I am looking for internship + new grad opportunities.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xiyue-jasmine-zhang/)! I am looking for new grad opportunities.
 
 For more info, check out my [personal website](https://xiyuezhang.gatsbyjs.io/)!
 
