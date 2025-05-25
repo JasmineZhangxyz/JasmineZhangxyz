@@ -1,12 +1,13 @@
 ## About Me
 - 👋 Hi! My name is Xiyue, but I also go by Jasmine
 - 😄 Pronouns: she/her
-- 🌱 I'm an Engineering Science - Machine Intelligence student at the University of Toronto (Class of 2024)
-- 💻 I'm currently a SWE Co-op Intern at IBM (start date: May 2022)
+- 💻 I'm currently a Software Developer at Canonical, the company behind Ubuntu
+- 💻 Previously, I was a SWE Co-op Intern at IBM (May 2022 - August 2023)
+- 🌱 I'm an Engineering Science - Machine Intelligence graduate from the University of Toronto (Class of 2024)
 - 💬 I'm excited to learn about all the different applications and fields within software development!
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xiyue-jasmine-zhang/)! I am looking for new grad opportunities.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xiyue-jasmine-zhang/)! I am actively looking for early career opportunities.
 
-For more info, check out my [personal website](https://xiyuezhang.gatsbyjs.io/)!
+For more info, check out my [personal website](https://xiyue-jasmine-zhang.netlify.app/)!
 
 ## Technologies + Courses 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
